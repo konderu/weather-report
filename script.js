@@ -1,11 +1,11 @@
 const apiKey = "dc717abf162719c5af86c5a85a06ad17";
 
 const weatherBackgrounds = {
-  Clear: "images/clear.jpg",
-  Clouds: "images/cloud.jpg",
-  Rain: "images/rain.jpg",
-  Snow: "images/snow.jpg",
-  Default: "images/default.jpg"
+  Clear: "clear.jpg",
+  Clouds: "cloud.jpg",
+  Rain: "rain.jpg",
+  Snow: "snow.jpg",
+  Default:"default.jpg"
 };
 
 function setBackground(weather, temp) {
